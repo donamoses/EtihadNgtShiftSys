@@ -1,6 +1,6 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
-  "id": "69f49258-dfbd-48d5-aebb-0a7e740f58f9",
+  "id": "3ac02968-6eb4-4cb7-869a-b8fee0ce084f",
   "alias": "EtihadManReqFormWebPart",
   "componentType": "WebPart",
 

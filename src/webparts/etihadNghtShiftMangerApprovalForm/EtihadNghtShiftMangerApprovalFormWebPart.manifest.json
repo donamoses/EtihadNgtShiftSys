@@ -1,6 +1,6 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
-  "id": "cc2f1483-b68b-4b00-bffd-ddf01bd8480c",
+  "id": "a760fa67-2dac-4fb1-a160-81d45ec7025f",
   "alias": "EtihadNghtShiftMangerApprovalFormWebPart",
   "componentType": "WebPart",
 

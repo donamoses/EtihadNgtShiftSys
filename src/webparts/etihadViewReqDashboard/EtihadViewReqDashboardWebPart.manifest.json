@@ -1,6 +1,6 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
-  "id": "b931e97c-bd63-4d58-9c15-f97dcaf71739",
+  "id": "2e09938f-b69f-4bfc-8387-4ba0aee6586e",
   "alias": "EtihadViewReqDashboardWebPart",
   "componentType": "WebPart",
 
