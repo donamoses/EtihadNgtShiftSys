@@ -1,0 +1,36 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "etihad-man-req-form-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/etihadManReqForm/EtihadManReqFormWebPart.js",
+          "manifest": "./src/webparts/etihadManReqForm/EtihadManReqFormWebPart.manifest.json"
+        }
+      ]
+    },
+    "etihad-view-req-dashboard-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/etihadViewReqDashboard/EtihadViewReqDashboardWebPart.js",
+          "manifest": "./src/webparts/etihadViewReqDashboard/EtihadViewReqDashboardWebPart.manifest.json"
+        }
+      ]
+    },
+    "etihad-nght-shift-manger-approval-form-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/etihadNghtShiftMangerApprovalForm/EtihadNghtShiftMangerApprovalFormWebPart.js",
+          "manifest": "./src/webparts/etihadNghtShiftMangerApprovalForm/EtihadNghtShiftMangerApprovalFormWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "EtihadManReqFormWebPartStrings": "lib/webparts/etihadManReqForm/loc/{locale}.js",
+    "EtihadViewReqDashboardWebPartStrings": "lib/webparts/etihadViewReqDashboard/loc/{locale}.js",
+    "EtihadNghtShiftMangerApprovalFormWebPartStrings": "lib/webparts/etihadNghtShiftMangerApprovalForm/loc/{locale}.js"
+  }
+}

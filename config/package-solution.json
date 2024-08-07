@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "etihad-ngt-shift-sys-client-side-solution",
+    "id": "2e3ea7eb-959b-4e46-8303-ceb121a26da9",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "etihad-ngt-shift-sys description"
+      },
+      "longDescription": {
+        "default": "etihad-ngt-shift-sys description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "etihad-ngt-shift-sys Feature",
+        "description": "The feature that activates elements of the etihad-ngt-shift-sys solution.",
+        "id": "51a5f835-fde4-4154-bbb2-d28d0f6e1653",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/etihad-ngt-shift-sys.sppkg"
+  }
+}
